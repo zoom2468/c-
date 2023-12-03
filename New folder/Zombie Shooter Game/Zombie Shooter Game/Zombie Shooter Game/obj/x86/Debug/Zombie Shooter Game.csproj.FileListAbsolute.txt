@@ -1,0 +1,8 @@
+C:\Users\Leen\Desktop\مشروع\New folder\Zombie Shooter Game\Zombie Shooter Game\Zombie Shooter Game\obj\x86\Debug\Zombie_Shooter_Game.Form1.resources
+C:\Users\Leen\Desktop\مشروع\New folder\Zombie Shooter Game\Zombie Shooter Game\Zombie Shooter Game\obj\x86\Debug\Zombie_Shooter_Game.Properties.Resources.resources
+C:\Users\Leen\Desktop\مشروع\New folder\Zombie Shooter Game\Zombie Shooter Game\Zombie Shooter Game\obj\x86\Debug\Zombie Shooter Game.csproj.GenerateResource.Cache
+C:\Users\Leen\Desktop\مشروع\New folder\Zombie Shooter Game\Zombie Shooter Game\Zombie Shooter Game\bin\Debug\Zombie Shooter Game.exe
+C:\Users\Leen\Desktop\مشروع\New folder\Zombie Shooter Game\Zombie Shooter Game\Zombie Shooter Game\bin\Debug\Zombie Shooter Game.pdb
+C:\Users\Leen\Desktop\مشروع\New folder\Zombie Shooter Game\Zombie Shooter Game\Zombie Shooter Game\obj\x86\Debug\Zombie Shooter Game.exe
+C:\Users\Leen\Desktop\مشروع\New folder\Zombie Shooter Game\Zombie Shooter Game\Zombie Shooter Game\obj\x86\Debug\Zombie Shooter Game.pdb
+C:\Users\Leen\Desktop\مشروع\New folder\Zombie Shooter Game\Zombie Shooter Game\Zombie Shooter Game\obj\x86\Debug\Zombie Shooter Game.csprojResolveAssemblyReference.cache
